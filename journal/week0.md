@@ -17,7 +17,7 @@ This week, I completed the following:
 -   Created Rollbar Account
    
 ## Napkin Conceptual Diagram
-![IMG-3059 copy](https://user-images.githubusercontent.com/47094201/222935223-0f2bae8d-68b0-4346-983d-2bb1e227f9f4.jpg)
+![IMG-3059 copy](https://user-images.githubusercontent.com/47094201/222935285-511d2e9d-cf1c-4ca7-b200-697d2abc2524.jpg)
 
 
 
