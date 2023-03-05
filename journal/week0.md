@@ -21,6 +21,4 @@ This week, I completed the following:
 
 
 ## Logical Architecture Diagram
-![Cruddur Logical Diagram](https://user-images.githubusercontent.com/47094201/222935082-0c23a621-25ef-4c2a-97c8-ec806111bf79.png)
-
-
+![Cruddur Logical Diagram](https://user-images.githubusercontent.com/47094201/222935147-423bbcfe-d091-40cb-a117-2f4a9914109d.png)
