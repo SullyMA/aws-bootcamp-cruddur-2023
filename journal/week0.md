@@ -17,13 +17,10 @@ This week, I completed the following:
 -   Created Rollbar Account
    
 ## Napkin Conceptual Diagram
-* Designed to be more of a high-level walk through of the Cruddur cloud system.
-
 ![IMG-3059](https://user-images.githubusercontent.com/47094201/222934606-e1edc139-1667-41b4-b042-4901bd8dfb64.jpg)
 
 
 ## Logical Architecture Diagram
-- Designed as a fully mapped out AWS solution architecture diagram of the Cruddur cloud system.
-- Included a mini-map of the serverless image processing microservice.
+![Cruddur Logical Diagram](https://user-images.githubusercontent.com/47094201/222935082-0c23a621-25ef-4c2a-97c8-ec806111bf79.png)
 
-![Cruddur Logical Diagram.pdf](https://github.com/SullyMA/aws-bootcamp-cruddur-2023/files/10890464/Cruddur.Logical.Diagram.pdf)
+
